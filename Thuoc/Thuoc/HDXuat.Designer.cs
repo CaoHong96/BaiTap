@@ -238,7 +238,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(35, 99);
+            this.label3.Location = new System.Drawing.Point(35, 103);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(50, 17);
             this.label3.TabIndex = 59;
@@ -250,9 +250,9 @@
             this.label2.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(35, 71);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(114, 17);
+            this.label2.Size = new System.Drawing.Size(122, 17);
             this.label2.TabIndex = 58;
-            this.label2.Text = "Họ tên người mua";
+            this.label2.Text = "Họ tên khách hàng:";
             // 
             // label1
             // 
@@ -266,6 +266,7 @@
             // 
             // HDXuat
             // 
+            this.AcceptButton = this.btnThem;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(557, 506);

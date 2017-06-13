@@ -115,6 +115,7 @@
             // 
             // btnHuy
             // 
+            this.btnHuy.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btnHuy.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnHuy.Location = new System.Drawing.Point(194, 184);
             this.btnHuy.Name = "btnHuy";
@@ -147,8 +148,10 @@
             // 
             // ĐoiMK
             // 
+            this.AcceptButton = this.btnDongY;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.CancelButton = this.btnHuy;
             this.ClientSize = new System.Drawing.Size(358, 256);
             this.Controls.Add(this.panel1);
             this.Name = "ĐoiMK";

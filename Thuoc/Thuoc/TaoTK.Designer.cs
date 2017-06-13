@@ -69,7 +69,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(7, 148);
+            this.label3.Location = new System.Drawing.Point(9, 148);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(118, 17);
@@ -116,7 +116,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(7, 110);
+            this.label4.Location = new System.Drawing.Point(9, 110);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(67, 17);
@@ -147,8 +147,10 @@
             // 
             // TaoTK
             // 
+            this.AcceptButton = this.btnDongY;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.CancelButton = this.btnHuy;
             this.ClientSize = new System.Drawing.Size(362, 263);
             this.Controls.Add(this.panel1);
             this.Name = "TaoTK";

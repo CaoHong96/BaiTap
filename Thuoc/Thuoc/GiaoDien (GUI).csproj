@@ -44,6 +44,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GiaoDienChinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiaoDienChinh.Designer.cs">
+      <DependentUpon>GiaoDienChinh.cs</DependentUpon>
+    </Compile>
     <Compile Include="HDNhap.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -56,6 +62,12 @@
     <Compile Include="HDXuat.Designer.cs">
       <DependentUpon>HDXuat.cs</DependentUpon>
     </Compile>
+    <Compile Include="PhanQuyen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PhanQuyen.Designer.cs">
+      <DependentUpon>PhanQuyen.cs</DependentUpon>
+    </Compile>
     <Compile Include="TaoTK.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -67,6 +79,12 @@
     </Compile>
     <Compile Include="TTChiTietThuoc.Designer.cs">
       <DependentUpon>TTChiTietThuoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TTKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TTKhachHang.Designer.cs">
+      <DependentUpon>TTKhachHang.cs</DependentUpon>
     </Compile>
     <Compile Include="XacNhanNQL.cs">
       <SubType>Form</SubType>
@@ -88,17 +106,26 @@
     <Compile Include="ĐoiMK.Designer.cs">
       <DependentUpon>ĐoiMK.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="GiaoDienChinh.resx">
+      <DependentUpon>GiaoDienChinh.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="HDNhap.resx">
       <DependentUpon>HDNhap.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="HDXuat.resx">
       <DependentUpon>HDXuat.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="PhanQuyen.resx">
+      <DependentUpon>PhanQuyen.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="TaoTK.resx">
       <DependentUpon>TaoTK.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="TTChiTietThuoc.resx">
       <DependentUpon>TTChiTietThuoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TTKhachHang.resx">
+      <DependentUpon>TTKhachHang.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="XacNhanNQL.resx">
       <DependentUpon>XacNhanNQL.cs</DependentUpon>

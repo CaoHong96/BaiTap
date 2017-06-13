@@ -1,0 +1,16 @@
+E:\LTUD\KTHP\BaiTap\Thuoc\Thuoc\bin\Debug\Thuoc.exe
+E:\LTUD\KTHP\BaiTap\Thuoc\Thuoc\bin\Debug\Thuoc.pdb
+E:\LTUD\KTHP\BaiTap\Thuoc\Thuoc\obj\x86\Debug\Thuoc.GiaoDienChinh.resources
+E:\LTUD\KTHP\BaiTap\Thuoc\Thuoc\obj\x86\Debug\Thuoc.HDNhap.resources
+E:\LTUD\KTHP\BaiTap\Thuoc\Thuoc\obj\x86\Debug\Thuoc.HDXuat.resources
+E:\LTUD\KTHP\BaiTap\Thuoc\Thuoc\obj\x86\Debug\Thuoc.PhanQuyen.resources
+E:\LTUD\KTHP\BaiTap\Thuoc\Thuoc\obj\x86\Debug\Thuoc.TaoTK.resources
+E:\LTUD\KTHP\BaiTap\Thuoc\Thuoc\obj\x86\Debug\Thuoc.TTChiTietThuoc.resources
+E:\LTUD\KTHP\BaiTap\Thuoc\Thuoc\obj\x86\Debug\Thuoc.TTKhachHang.resources
+E:\LTUD\KTHP\BaiTap\Thuoc\Thuoc\obj\x86\Debug\Thuoc.XacNhanNQL.resources
+E:\LTUD\KTHP\BaiTap\Thuoc\Thuoc\obj\x86\Debug\Thuoc.ĐangNhap.resources
+E:\LTUD\KTHP\BaiTap\Thuoc\Thuoc\obj\x86\Debug\Thuoc.Properties.Resources.resources
+E:\LTUD\KTHP\BaiTap\Thuoc\Thuoc\obj\x86\Debug\Thuoc.ĐoiMK.resources
+E:\LTUD\KTHP\BaiTap\Thuoc\Thuoc\obj\x86\Debug\GiaoDien (GUI).csproj.GenerateResource.Cache
+E:\LTUD\KTHP\BaiTap\Thuoc\Thuoc\obj\x86\Debug\Thuoc.exe
+E:\LTUD\KTHP\BaiTap\Thuoc\Thuoc\obj\x86\Debug\Thuoc.pdb

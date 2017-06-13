@@ -15,5 +15,18 @@ namespace Thuoc
         {
             InitializeComponent();
         }
+
+        private void btnDongY_Click(object sender, EventArgs e)
+        {
+            GiaoDienChinh gdc = new GiaoDienChinh();
+            this.Hide();
+            gdc.ShowDialog();
+            this.Show();
+        }
+
+        private void btnHuyBo_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
